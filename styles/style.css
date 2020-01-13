@@ -1,12 +1,45 @@
 
 body {
 	color: ghostwhite;
-	background-image: url("https://img5.goodfon.com/wallpaper/nbig/8/58/dizain-design-neon-light-room-background-neon-abstract.jpg");
+	background-image: url("https://images.unsplash.com/photo-1486057117093-e88cb7bcad8f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2700&q=80");
 	text-align: center;
+
+}
+
+h1 {
+	font-family: 'Rock Salt', cursive;
+	color: #466313;
+	font-size: 2.5em;
+	color: #474331;
+}
+
+p{
+	text-align: left;
+	color: #2B2A26;
 }
 
 .container {
 	display: inline-flex;
 }
+
+.bio-block{
+	width: 30%;
+	background-color: rgba(249,249,249,.95);
+	border-radius: .9%;
+	padding: 30px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 30px;
+}
+
+img {
+	width: 100%;
+	margin-bottom: 30px;
+	border-radius: 4px;
+	box-shadow: 2px 2px 5px lightgrey;
+
+}
+
 
 
